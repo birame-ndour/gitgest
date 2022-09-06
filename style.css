@@ -1,0 +1,57 @@
+.header{
+    text-align: center;
+    background-color:black;
+    color: white;
+}
+.container .row{
+    align-items: center;
+    margin-left: 40%;
+}
+.text-center{
+    margin-top: 30px;
+}
+.numberbls{
+font-size: 30px;
+text-align: center;
+}
+.butt{
+    display: flex;
+    justify-content: space-around;
+    position: relative;
+}
+.form-group{
+    font-size: 30px;
+    width: 200px;
+}
+.form-control{
+    width: 30%;
+}
+.table{
+    font-size: 20px;
+    width: 20%;
+    justify-content: space-around;
+    margin-top: 50px;
+}
+.numberrev{
+    font-size: 30px;
+    text-align:left;
+    margin-bottom: 30px;
+}
+body{
+    background-color: rgb(147, 147, 99);
+}
+.input-group-text{
+ width: 30%;
+    height: 30%;
+}
+.numberdps{
+    font-size: 30px;
+}
+.rev{
+    margin-right: 95%;
+}
+h3{
+    font-size: 30px ;
+    text-align: left;
+    
+}
